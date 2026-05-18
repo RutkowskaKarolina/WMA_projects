@@ -103,36 +103,31 @@ Implementation of a Convolutional Neural Network (CNN) for image classification 
 ---
 
 ## Project 5 — YOLO Object Detection and Tracking
-**Topic:** Ultralytics YOLO, object detection
+**Topic:** Ultralytics YOLO, object detection and tracking
 
 ### Description
 Object detection and tracking using Ultralytics YOLO framework.
 
 ### Features
-- Custom dataset preparation
-- Object labeling and augmentation
-- Training YOLO models
-- Object detection in videos
+- Custom dataset creation
+- Object annotation and preprocessing
+- YOLO model training and validation
+- Real-time object detection in videos
 - Object tracking
-- Comparison with descriptor-based tracking methods from previous projects
-
-### Example Classes
-- Chainsaw
-- Airplane
-- Custom objects from Roboflow datasets
+- Performance comparison with descriptor-based methods (SIFT/ORB)
 
 ### Technologies
 - Python
 - OpenCV
 - Ultralytics YOLO
-- Roboflow
 
 ### Additional Information
 The project includes:
-- Installation and configuration of Ultralytics package
-- Dataset preparation and augmentation
-- Model training and evaluation
-- Detection and tracking tests on videos
+- Installation and configuration of the Ultralytics package
+- Preparation of a custom dataset
+- YOLO training and evaluation
+- Detection and tracking tests on video sequences
+- Comparison with classical computer vision approaches
 
 ---
 
