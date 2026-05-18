@@ -100,9 +100,6 @@ Implementation of a Convolutional Neural Network (CNN) for image classification 
 - TensorFlow
 - Keras
 
-### Reference
-Task description based on laboratory assignment. :contentReference[oaicite:0]{index=0}
-
 ---
 
 ## Project 5 — YOLO Object Detection and Tracking
