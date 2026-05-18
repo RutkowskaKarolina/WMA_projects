@@ -1,0 +1,26 @@
+<annotation>
+	<folder>materials</folder>
+	<filename>saw16.jpg</filename>
+	<path>F:\IV rok\SEMESTR 8\WMA\WMA_5\materials\saw16.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>888</width>
+		<height>846</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chainsaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>27</ymin>
+			<xmax>747</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+</annotation>

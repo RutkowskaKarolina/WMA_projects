@@ -1,0 +1,4 @@
+path: chainsaw_dataset
+train: images/train
+val: images/train
+names: ["chainsaw"]
